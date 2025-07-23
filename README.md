@@ -10,7 +10,7 @@
 
 ---
 
-![Preview](A_promotional_graphic_for_the_"Good_Morning_Bot,"_.png)
+![Preview](preview_image.png)
 
 ---
 
